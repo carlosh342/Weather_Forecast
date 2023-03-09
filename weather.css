@@ -1,0 +1,13 @@
+.weatherContainer{
+    display: flex;
+    justify-content: space-between;
+
+}
+.weatherCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between ;
+    background-color: rgb(55, 65, 211);
+    border: 40px, solid, black;
+    font-size: medium;
+}
